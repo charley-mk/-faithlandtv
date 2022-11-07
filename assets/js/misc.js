@@ -8,6 +8,7 @@ var infoColor = getComputedStyle(document.body).getPropertyValue('--info');
 var darkColor = getComputedStyle(document.body).getPropertyValue('--dark');
 var lightColor = getComputedStyle(document.body).getPropertyValue('--light');
 
+
 (function($) {
   'use strict';
   $(function() {
