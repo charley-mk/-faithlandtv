@@ -13,7 +13,7 @@ catch (PDOException $e)
 {
 exit("Error: " . $e->getMessage());
 }
-$conn = mysqli_connect("localhost","root","","jwccoke_havendb");
+$conn = mysqli_connect("localhost","jwccoke_havendb","","jwccoke_havendb");
 ?>
 
 
