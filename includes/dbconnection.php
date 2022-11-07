@@ -1,9 +1,9 @@
 <?php 
 // DB credentials.
 define('DB_HOST','localhost');
-define('DB_USER','root');
+define('DB_USER','jwccoke_havendb');
 define('DB_PASS','');
-define('DB_NAME','onechurch');
+define('DB_NAME','jwccoke_havendb');
 // Establish database connection.
 try
 {
@@ -13,7 +13,7 @@ catch (PDOException $e)
 {
 exit("Error: " . $e->getMessage());
 }
-$conn = mysqli_connect("localhost","root","","onechurch");
+$conn = mysqli_connect("localhost","root","","jwccoke_havendb");
 ?>
 
 
