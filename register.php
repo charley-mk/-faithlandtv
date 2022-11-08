@@ -112,6 +112,7 @@ if(!empty($_POST["companyname"])) {
 <!DOCTYPE html>
 <html lang="en">
 <?php @include("includes/head.php");?>
+<?php @include("includes/header.php");?>
 <body>
     <div class="container-scroller">
         <div class="container-fluid page-body-wrapper full-page-wrapper">

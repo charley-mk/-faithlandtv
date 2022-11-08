@@ -4,21 +4,21 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <title>FaithLand Ukunda</title>
   <!-- plugins:css -->
-  <link rel="stylesheet" href="assets/vendors/mdi/css/materialdesignicons.min.css">
-  <link rel="stylesheet" href="assets/vendors/css/vendor.bundle.base.css">
+  <link rel="stylesheet" href="../assets/vendors/mdi/css/materialdesignicons.min.css">
+  <link rel="stylesheet" href="../assets/vendors/css/vendor.bundle.base.css">
   <!-- endinject -->
   <!-- Custom styles for our template -->
-  <link rel="stylesheet" type="text/css" href="assets/css/isotope.css" media="screen" />
-  <link rel="stylesheet" href="assets/js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
-  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" type="text/css" href="../assets/css/isotope.css" media="screen" />
+  <link rel="stylesheet" href="../assets/js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+  <link rel="stylesheet" href="../assets/css/style.css">
   <!-- Layout styles -->
-  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="../assets/css/style.css">
   <!-- End layout styles -->
-  <link rel="shortcut icon" href="assets/images/favicon.png" />
+  <link rel="shortcut icon" href="../assets/images/favicon.png" />
   <!-- <link rel="stylesheet" href="assets/plugins/overlayScrollbars/css/OverlayScrollbars.min.css"> -->
   <!--  Author Name: Nikhil Bhalerao From India 
  for any PHP, Codeignitor, Laravel OR Python work contact me at +919423979339 OR ndbhalerao91@gmail.com  -->
-  <link href="assets/vendors/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
+  <link href="../assets/vendors/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
   <style >
     th { 
       white-space: normal !important;
