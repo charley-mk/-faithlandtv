@@ -17,16 +17,17 @@
 
 <!--  Author Name: Nikhil Bhalerao From India 
  for any PHP, Codeignitor, Laravel OR Python work contact me at +919423979339 OR ndbhalerao91@gmail.com  -->
- <script src="assets/vendors/datatables/jquery.dataTables.min.js"></script>
- <script src="assets/vendors/datatables/dataTables.bootstrap4.min.js"></script>
+ <script src="../assets/vendors/datatables/jquery.dataTables.min.js"></script>
+ <script src="../assets/vendors/datatables/dataTables.bootstrap4.min.js"></script>
 
- <script src="assets/js/jquery.cslider.js"></script>
- <script src="assets/js/jquery.isotope.min.js"></script>
- <script src="assets/js/jquery.js"></script>
- <script src="assets/js/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script>
- <script src="assets/js/custom.js"></script>
- <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+ <script src="../assets/js/jquery.cslider.js"></script>
+ <script src="../assets/js/jquery.isotope.min.js"></script>
+ <script src="../assets/js/jquery.js"></script>
+ <script src="../assets/js/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script>
+ <script src="../assets/js/custom.js"></script>
+ <script type="text/javascript" src="../assets/js/loader.js"></script>
  
+
 
 <script>
     $(document).ready(function () {
