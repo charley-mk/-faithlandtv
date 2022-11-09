@@ -5,7 +5,7 @@ div.innerHTML = "<"+
 				"i"+
 				"v"+
 				">"+
-				"Copyright @"+ ThisYear + "Project Developed by CharlesTech Coporation Limited" +
+				"Copyright @"+ ThisYear +" "+ "Project Developed by CharlesTech Coporation Limited" +
 
 				"<"+
 				"/"+
